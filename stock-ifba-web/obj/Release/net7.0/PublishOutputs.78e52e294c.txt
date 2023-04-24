@@ -1,0 +1,8 @@
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\stock-ifba-web.exe
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\stock-ifba-web.dll
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\stock-ifba-web.deps.json
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\stock-ifba-web.runtimeconfig.json
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\stock-ifba-web.pdb
+C:\Users\Victor\source\repos\stock-ifba-web\stock-ifba-web\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
