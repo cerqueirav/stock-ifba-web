@@ -7,10 +7,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["stock-ifba-web/stock-ifba-web.csproj", "stock-ifba-web/"]
-RUN dotnet restore "stock-ifba-web/stock-ifba-web.csproj"
+COPY ["stock-ifba-web.csproj", "./"]
+RUN dotnet restore "./stock-ifba-web.csproj"
 COPY . .
-WORKDIR "/src/stock-ifba-web"
+WORKDIR "/src/"
 RUN dotnet build "stock-ifba-web.csproj" -c Release -o /app/build
 
 FROM build AS publish
